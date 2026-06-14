@@ -13,7 +13,11 @@
 [ata](https://purgatory.atabook.org/)ㅤㅤ[strawpage](https://heartsofgold.straw.page)ㅤㅤ[rentry](https://rentry.co/stcky)ㅤㅤ[pronounspage](https://en.pronouns.page/@sadcartoon)
 </div>
 <p align="center">
-
+<p align="center">
+ <p align="center">
+   <p align="center">
+     <p align="center">
+       
   <img width="1500" height="500" alt="image" src="https://files.catbox.moe/xxo4c2.png" />
   </div>
 
