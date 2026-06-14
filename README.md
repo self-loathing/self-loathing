@@ -39,4 +39,3 @@ Fair warning, i tend to have trouble with my emotions, so i can snap at people e
   <a
 
   <img width="99" height="56" alt="image" src="https://files.catbox.moe/xnp9yx.gif" /> <img width="99" height="57" alt="image" src="https://files.catbox.moe/a95dkp.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/ozqhl8.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/zzyzzw.gif" />
-width="99" height="56" alt="image"
