@@ -5,7 +5,7 @@
 </p>
 
   &nbsp;<div align="center">
-  [![](https://komarev.com/ghpvc/?username=scoobynatural&logo=GitHub&label=%20goobers&color=336699&logoColor=black&style=flat-square)](https://github.com/scoobynatural)
+  [![](https://komarev.com/ghpvc/?username=scoobynatural&logo=GitHub&label=%20goobers&color=cfddea&logoColor=black&style=flat-square)](https://github.com/scoobynatural)
 </div>
 <p align="center">
    <a
@@ -14,7 +14,7 @@
 </div>
 <p align="center">
 
-  <img width="570" height="570" alt="image" src="https://files.catbox.moe/6j6j1s.png" />
+  <img width="570" height="570" alt="image" src="https://files.catbox.moe/xxo4c2.png" />
   </div>
 
   <p align="center">
