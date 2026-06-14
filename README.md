@@ -43,5 +43,7 @@ Fair warning, i tend to have trouble with my emotions, so i can snap at people e
 width="150" height="20" alt="image" src="https://files.catbox.moe/xnp9yx.gif" /> <img
 width="150" height="20" alt="image" src="https://files.catbox.moe/9jw959.gif" /> <img
 width="150" height="20" alt="image" src="https://files.catbox.moe/tuoyt4.gif" /> <img
-width="150" height="20" alt="image" src="https://files.catbox.moe/ozqhl8.gif" />
+width="150" height="20" alt="image" src="https://files.catbox.moe/ozqhl8.gif" /> <img
+width="150" height="20" alt="image" src="https://files.catbox.moe/pxxyi4.gif" /> <img
+width="150" height="20" alt="image" src="https://files.catbox.moe/xnp9yx.gif" /> <img
                                                                                                                                                                                                                                                                     
