@@ -38,4 +38,4 @@ Fair warning, i tend to have trouble with my emotions, so i can snap at people e
 <p align="center">
   <a
 
-  <img width="99" height="56" alt="image" src="https://files.catbox.moe/1xgypl.gif" /> <img width="99" height="57" alt="image" src="https://files.catbox.moe/1xgypl.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/b9enu2.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/nqn299.gif"  width="99" height="56" alt="image" src="https://https://files.catbox.moe/1xgypl.gif" />  
+  <img width="99" height="56" alt="image" src="https://files.catbox.moe/xnp9yx.gif" /> <img width="99" height="57" alt="image" src="https://files.catbox.moe/1xgypl.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/b9enu2.gif" /> <img width="150" height="20" alt="image" src="https://files.catbox.moe/nqn299.gif"  width="99" height="56" alt="image" src="https://https://files.catbox.moe/1xgypl.gif" />  
