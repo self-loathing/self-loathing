@@ -18,7 +18,7 @@
    <p align="center">
      <p align="center">
        
-  <img width="2534" height="2013" alt="image" src="https://files.catbox.moe/l4ljaj.jpg" />
+  <img width="1500" height="500" alt="image" src="https://files.catbox.moe/l4ljaj.jpg" />
   </div>
 
   <p align="center">
