@@ -54,7 +54,7 @@ width="150" height="20" alt="image" src="https://files.catbox.moe/poedj8.gif" />
 width="150" height="20" alt="image" src="https://files.catbox.moe/dybds5.gif" /> <img
 width="150" height="20" alt="image" src="https://files.catbox.moe/c8w0sc.gif" /> <img
 width="150" height="20" alt="image" src="https://files.catbox.moe/zsz7uq.gif" /> <img
-width="150" height="20" alt="image" src="https://files.catbox.moe/g913uk.png" /> <img
-width="150" height="20" alt="image" src="https://files.catbox.moe/jj1ce7.gif" />
+width="370" height="320" alt="image" src="https://files.catbox.moe/g913uk.png" /> <img
+width="370" height="320" alt="image" src="https://files.catbox.moe/jj1ce7.gif" />
 
                                                                                                                                                                                                                                                                     
