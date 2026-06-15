@@ -5,7 +5,7 @@
 </p>
 
   &nbsp;<div align="center">
-  [![](https://komarev.com/ghpvc/?username=scoobynatural&logo=GitHub&label=%20goobers&color=cfddea&logoColor=efe0c1&style=flat-square)](https://github.com/scoobynatural)
+  [![](https://komarev.com/ghpvc/?username=scoobynatural&logo=GitHub&label=%20goobers&color=828C99&logoColor=efe0c1&style=flat-square)](https://github.com/scoobynatural)
 </div>
 <p align="center">
    <a
